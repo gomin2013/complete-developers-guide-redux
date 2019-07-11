@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Taj Mahal",
+    "location": "Agra, India",
+    "imgUrl": "https://wallpapercave.com/wp/wp2037798.jpg"
+  },
+  {
+    "name": "The Roman Colosseum",
+    "location": "Rome",
+    "imgUrl": "https://wallpapercave.com/wp/LboHRVL.jpg"
+  },
+  {
+    "name": "Machu Picchu",
+    "location": "Peru",
+    "imgUrl": "https://wallpapercave.com/wp/wp1844656.jpg"
+  },
+  {
+    "name": "Christ the Redeemer Statue",
+    "location": "Rio de Janeiro, Brazil",
+    "imgUrl": "https://wallpapercave.com/wp/wp1991596.jpg"
+  },
+  {
+    "name": "Chichen Itza",
+    "location": "Yucatan Peninsula, Mexico",
+    "imgUrl": "https://wallpapercave.com/wp/wp1885764.jpg"
+  },
+  {
+    "name": "Great Wall of China",
+    "location": "Beijing, China",
+    "imgUrl": "https://wallpapercave.com/wp/wp4107185.jpg"
+  },
+  {
+    "name": "Petra",
+    "location": "Jordan",
+    "imgUrl": "https://wallpapercave.com/wp/wp2003603.jpg"
+  }
+]

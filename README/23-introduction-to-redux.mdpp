@@ -1,0 +1,16 @@
+## 23 Introduction to Redux[![gototop](/README/images/gototop.png)](#complete-developers-guide-redux)
+
+- [Redux Simple Example (Add User)](#redux-simple-example-add-user)
+- [Redux Simple Example (Increment & Decrement)](#redux-simple-example-increment--decrement)
+- [Redux (Add & Remove Object)](#redux-add--remove-object)
+- [Redux (Add & Remove Array)](#redux-add--remove-array)
+    - [Object](#object)
+    - [Array (Concat & Filter)](#array-concat--filter)
+
+!INCLUDE "./23-introduction-to-redux/04-redux-simple-example.mdpp"
+
+!INCLUDE "./23-introduction-to-redux/03-redux-add-remove.mdpp"
+
+!INCLUDE "./23-introduction-to-redux/02-object.md"
+
+!INCLUDE "./23-introduction-to-redux/01-array-concat-filter.md"

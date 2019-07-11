@@ -1,0 +1,53 @@
+# Complete Developers Guide (Redux)
+
+- [24 Adding Redux to React](#24-adding-redux-to-react)
+- [23 Introduction to Redux](#23-introduction-to-redux)
+    - [Redux Simple Example (Add User)](#redux-simple-example-add-user)
+    - [Redux Simple Example (Increment & Decrement)](#redux-simple-example-increment--decrement)
+    - [Redux (Add & Remove Object)](#redux-add--remove-object)
+    - [Redux (Add & Remove Array)](#redux-add--remove-array)
+        - [Object](#object)
+        - [Array (Concat & Filter)](#array-concat--filter)
+- [17 React States](#17-react-states)
+- [16 React Components](#16-react-components)
+    - [Component (Set Interval)](#component-set-interval)
+    - [Component (Create Class Function)](#component-create-class-function)
+    - [Component (ES6 class syntax)](#component-es6-class-syntax)
+    - [Component (Import File)](#component-import-file)
+    - [Component (Default Props)](#component-default-props)
+    - [Component (Prop Types)](#component-prop-types)
+    - [Component (NPM package solutions)](#component-npm-package-solutions)
+- [15 Introduction to React and JSX](#15-introduction-to-react-and-jsx)
+    - [Install Babel, Webpack & React](#install-babel-webpack--react)
+    - [Components](#components)
+    - [Components (Array)](#components-array)
+    - [Components (JSON)](#components-json)
+    - [Components (Text Input)](#components-text-input)
+- [14 Introduction to React and Redux Section](#14-introduction-to-react-and-redux-section)
+    - [React](#react)
+
+!INCLUDE "README/24-adding-redux-to-react.md"
+
+!INCLUDE "README/23-introduction-to-redux.mdpp"
+
+!INCLUDE "README/17-react-states.md"
+
+!INCLUDE "README/16-react-components.mdpp"
+
+!INCLUDE "README/15-introduction-to-react-and-jsx.mdpp"
+
+!INCLUDE "README/14-introduction-to-react-and-redux-section.md"
+
+<!--
+# Install Python Package Manager.
+brew install python
+
+# Setup MarkdownPP on Mac.
+sudo pip3 install MarkdownPP
+
+# Generate README.
+markdown-pp README/index.mdpp -o README.md
+
+# Markdown Preprocessor (MarkdownPP)
+https://github.com/jreese/markdown-pp
+-->

@@ -1,0 +1,23 @@
+## 16 React Components[![gototop](/README/images/gototop.png)](#complete-developers-guide-redux)
+
+- [Component (Set Interval)](#component-set-interval)
+- [Component (Create Class Function)](#component-create-class-function)
+- [Component (ES6 class syntax)](#component-es6-class-syntax)
+- [Component (Import File)](#component-import-file)
+- [Component (Default Props)](#component-default-props)
+- [Component (Prop Types)](#component-prop-types)
+- [Component (NPM package solutions)](#component-npm-package-solutions)
+
+!INCLUDE "./16-react-components/01-component-set-interval.md"
+
+!INCLUDE "./16-react-components/02-component-create-class-function.md"
+
+!INCLUDE "./16-react-components/03-component-es6-class-syntax.md"
+
+!INCLUDE "./16-react-components/04-component-import-file.md"
+
+!INCLUDE "./16-react-components/05-component-default-props.md"
+
+!INCLUDE "./16-react-components/06-component-prop-types.md"
+
+!INCLUDE "./16-react-components/07-component-npm-package-solutions.md"
